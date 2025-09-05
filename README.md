@@ -91,13 +91,14 @@ news-aggregator/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ikehi/GURUGEEKS.git
    cd news-aggregator
    ```
 
 2. **Set up environment variables**
    ```bash
    cp .env.example .env
+   get .env.example below
    # Edit .env with your API keys and configuration
    ```
 
